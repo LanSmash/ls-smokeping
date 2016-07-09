@@ -1,0 +1,34 @@
+*** Targets ***
+
+probe = FPing
+
+menu = Top
+title = Network Latency Grapher
+remark = Welcome to the SmokePing website of xxx Company. \
+         Here you will learn all about the latency of our network.
+
+
+
+
+
++ ISP
+menu = Internets
+title = Internets
+
+++ NextHop
+menu = House
+title = House
+host = 10.170.39.254
+
+++ 4G_1
+menu = 4G_1
+title = 4G_1
+host = 8.8.4.4
+
+++ 4G_4
+menu = 4G_4
+title = 4G_4
+host = 203.215.29.191
+
+
+
